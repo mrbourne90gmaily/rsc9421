@@ -1,0 +1,2 @@
+# rsc9421
+Un IDE para GHDL y GTKWAVE
